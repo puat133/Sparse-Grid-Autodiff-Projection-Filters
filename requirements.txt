@@ -1,0 +1,14 @@
+numpy>=1.19.2
+matplotlib>=3.3.2
+scipy>=1.5.2
+jaxlib~=0.1.67
+jax~=0.2.14
+jupyter>=1.0.0
+sympy
+jupyterlab>=3.0.0
+pytest>=6.1.1
+flake8>=3.8.4
+seaborn>=0.11.1
+tqdm>= 4.56
+h5py>=3.1.0
+Tasmanian==7.5
